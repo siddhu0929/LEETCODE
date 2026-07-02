@@ -10,7 +10,7 @@ for(int i = 0;i<s.length();i++){
 return i;
 }
 }
-return -1;
+return -1;g
 }
 public static void main(String args[]){
 Scanner sc = new Scanner(System.in);
